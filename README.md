@@ -12,7 +12,7 @@
 
 **5.** In the line 10 of the "MainAlgotithm1.m" add dataset's path in your device.
 
-**6.** In the line 93 of the "MainAlgotithm1.m" add the savemat's path.
+**6.** In the line 93 of the "MainAlgotithm1.m" add the savemat's path in your device.
 
 **7.** Open the "Diabetic-lesions-MATLAB" project and run the "MainAlgorithm1.m". 
 
